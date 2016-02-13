@@ -23,7 +23,7 @@ color:
     - '#dadada'
     - '#fdfdfd'
   brandStrength: 0.5
-  lightness: 0.5445730641949922
+  lightness: 1
   saturation: 1
-  rhythmicContrast: 0.25
+  rhythmicContrast: 1
 purpose: []
