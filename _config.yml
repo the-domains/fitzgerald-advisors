@@ -1,0 +1,28 @@
+name: Fitzgerald advisors
+favicon: null
+layout_spectrum: 0.8421796374022961
+typography_spectrum: 0.22276235674507916
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5054246596992016
+  lightness: 0.5445730641949922
+  saturation: 0.0853933054022491
+  rhythmicContrast: 0.45012205140665174
+purpose: []
