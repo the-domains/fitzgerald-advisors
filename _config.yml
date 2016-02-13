@@ -23,6 +23,6 @@ color:
     - '#E376B7'
   brandStrength: 0.5054246596992016
   lightness: 0.5445730641949922
-  saturation: 0.0853933054022491
-  rhythmicContrast: 0.45012205140665174
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
