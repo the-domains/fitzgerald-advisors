@@ -1,6 +1,6 @@
 name: 'Fitzgerald Advisors, LLC'
 favicon: null
-layout_spectrum: 0.99416
+layout_spectrum: 0.65693
 typography_spectrum: 0.43478
 title: 'Fitzgerald Advisors, LLC | Loan Sales '
 cta:
@@ -22,8 +22,8 @@ color:
     - '#aeaeae'
     - '#dadada'
     - '#fdfdfd'
-  brandStrength: 0.5
-  lightness: 1
-  saturation: 1
+  brandStrength: 0.4375
+  lightness: 0.5
+  saturation: 0.4375
   rhythmicContrast: 1
 purpose: []
